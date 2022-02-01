@@ -1,0 +1,19 @@
+.video-wrap{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    justify-content: center;
+
+}
+.video-col{
+    padding: 1em;
+}
+.video-col > div {
+    /* max-width: 100%; */
+    /* max-height: auto; */
+    height: auto;
+    width: 30em;
+}
+.filler p{
+    font-size: 30em;
+}
